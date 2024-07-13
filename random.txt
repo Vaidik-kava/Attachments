@@ -6,3 +6,6 @@ this is new text
 
 
 let me check if you can detect
+
+
+this is some text
